@@ -3,6 +3,7 @@
   - In particular:
     -  Web Dev
     -  Java
+    -  Python
 -  I also am looking to get better with developement and implementation, using things like:
   - AWS
   - Github
