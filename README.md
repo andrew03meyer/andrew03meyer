@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 - Hi, I’m @andrew03meyer
 - My aim is getting better at most types of programming
   - In particular:
