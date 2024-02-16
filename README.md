@@ -22,6 +22,12 @@
 | C++ | Learn | I would like to learn C++, as it has many useful applications, especially at lower levels of programming |
 | C# | Game design? | I'd like to relearn C# and produce a game of some sort, possibly in Unity |
 | Python/Linux | Rasberry Pi | I have a project to produce a rasberry pi streaming device for a ringing |
+
+## Work Experience
+| Where | Description |
+| ----- | ----------- |
+| Metaswtich (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Googl hosted ones |
+|Shepherd and Dog | 
 <!---
 andrew03meyer/andrew03meyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
