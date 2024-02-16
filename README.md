@@ -24,7 +24,7 @@
 | Python/Linux | Rasberry Pi  | I have a project to produce a rasberry pi streaming device for a ringing                                 |
 
 ## Work Experience
-| Where | Description |
-| ----- | ----------- |
+| Where                  | Description                                                                                                                            |
+| ---------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
 | Metaswtich (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Google hosted                                ones                                                                                                                                   |
 |Shepherd and Dog        | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with                                 customers                                                                                                                              |
