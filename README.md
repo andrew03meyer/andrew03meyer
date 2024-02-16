@@ -2,8 +2,6 @@
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats)
 
-<iframe src="https://www.andrewmeyer.co.uk" width="600" height="400"></iframe>
-
 ## Programming Experience
 | Language | Experience     | Description |
 | -------- | -------------- | -------------------------------------------------------------------------------------------- |
