@@ -1,3 +1,4 @@
+[LinkedIn](https://www.linkedin.com/in/andrew-meyer-200103266/)
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats)
 
 - Hi, I’m @andrew03meyer
