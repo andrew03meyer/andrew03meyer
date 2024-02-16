@@ -2,6 +2,8 @@
 
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats)
 
+<iframe src="https://andrewmeyer.co.uk> </ >
+
 ## Programming Experience
 | Language | Experience     | Description |
 | -------- | -------------- | -------------------------------------------------------------------------------------------- |
@@ -27,8 +29,4 @@
 | Where | Description |
 | ----- | ----------- |
 | Metaswtich (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Googl hosted ones |
-|Shepherd and Dog | 
-<!---
-andrew03meyer/andrew03meyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+|Shepherd and Dog | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with customers |
