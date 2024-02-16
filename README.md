@@ -7,9 +7,9 @@
     -  Java
     -  Python
 -  I also am looking to get better with developement and implementation, using things like:
-  - AWS
-  - Github
-  - Docker
+    - AWS
+    - Github
+    - Docker
 - I'm uploading my projects to Github as a record and a possibility to improve in the future!
 - Here's my website: https://andrewmeyer.co.uk
 <!---
