@@ -1,5 +1,5 @@
 <h1 align="center">Andrew Meyer</h1>
-[LinkedIn](https://www.linkedin.com/in/andrew-meyer-200103266/)
+
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats)
 
 - My aim is getting better at most types of programming
