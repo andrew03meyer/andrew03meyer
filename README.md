@@ -5,7 +5,7 @@
 ## Programming Experience
 | Language | Experience     | Description |
 | -------- | -------------- | -------------------------------------------------------------------------------------------- |
-| <img src="https://github.com/andrew03meyer/andrew03meyer/assets/128401407/f112b761-5774-4f52-9eb6-0aa1ff622e71" style="width:50px"</ img> | GCSE, A-Level  (4 years) | I have used python for a number of projects at A-Level and GCSE, and a couple at university. |
+| Python | GCSE, A-Level  (4 years) | I have used python for a number of projects at A-Level and GCSE, and a couple at university. |
 | Java      | University    (2 years) | Java was introduced to me as the main language at university. I have been using it for most programming since |
 | HTML/CSS | University (2 years) | These were introduced to me at A-Level, but I only really started working with it at university. I have developed my knowledge mainly in personal projects |
 | React | Personal (1 year) | I started using react to build my website ([Repos](https://github.com/andrew03meyer/Andrew-Meyer)) |
