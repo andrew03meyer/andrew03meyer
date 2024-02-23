@@ -9,7 +9,8 @@
 | Python   | GCSE, A-Level  (4 years)     | I have used python for a number of projects at A-Level and GCSE, and a couple at university.                               |
 | Java     | University    (2 years)      | Java was introduced to me as the main language at university. I have been using it for most programming since              |
 | HTML/CSS | University (2 years)         | These were introduced to me at A-Level, but I only really started working with it at university. I have developed my                                                knowledge mainly in personal projects                                                                                                                                  |
-| React    | Personal (1 year)            | I started using react to build websites (E.g.: [Repos](https://github.com/andrew03meyer/Andrew-Meyer))                         |
+| React    | Personal (1 year)            | I started using react to build websites (E.g.: [Repos](https://github.com/andrew03meyer/Andrew-Meyer))                     |
+| Tailwind | Personal (1 month)           | For my most recent website project, I've started using Tailwind                                                            |
 | Haskell  | University (2 months)        | I have just started to learn Haskell for one of my university modules                                                      |
 | SQL      | University/A-Level (4 years) | I have done some SQL at A-Level and more at university. I have also had some work experience where the main laguage was SQL|
 | C#       | Personal (1 month)           | I took part in some extra curricular studying of C# in a course. It gave me an introduction to C#                          |
