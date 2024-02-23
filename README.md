@@ -23,7 +23,7 @@
 | ------------ | ------------ | -------------------------------------------------------------------------------------------------------- |
 | C++          | Learn        | I would like to learn C++, as it has many useful applications, especially at lower levels of programming |
 | C#           | Game design? | I'd like to relearn C# and produce a game of some sort, possibly in Unity                                |
-| Python/Linux | Rasberry Pi  | I have a project to produce a rasberry pi streaming device for a ringing                                 |
+| Python/Linux | Rasberry Pi  | I have a project to produce a rasberry pi streaming device for a church in London                        |
 
 ## Work Experience
 | Where                  | Description                                                                                                                                   |
