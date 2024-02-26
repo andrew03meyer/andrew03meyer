@@ -1,6 +1,9 @@
 # Andrew Meyer
 
-<p align="center"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats&theme=radical) ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical) </p>
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats&theme=radical)
+  ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical) 
+</div>
 
 
 ## Oppurtunities
