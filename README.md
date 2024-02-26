@@ -1,5 +1,5 @@
 # Andrew Meyer
-<img src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical" align="center" />
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical) 
 
 
