@@ -1,12 +1,10 @@
 # Andrew Meyer
  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
-
+<img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer)" />
 
 
 ## Oppurtunities
  - **I'm currently looking for a year placement (starting Summer 2024 - September 2025). If you have any oppurtunities, please let me know!**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats&theme=radical) 
 
 ## Programming Experience
 | Language | Experience     | Description |
