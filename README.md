@@ -1,6 +1,5 @@
 # Andrew Meyer
- <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
+ <img height=200 src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
 
 
 ## Oppurtunities
