@@ -1,6 +1,6 @@
 # Andrew Meyer
 
-(![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=synthwave))(https://github.com/andrew03meyer/github-readme-stats)
+(![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer))(https://github.com/andrew03meyer/github-readme-stats)
 
 
 ## Oppurtunities
