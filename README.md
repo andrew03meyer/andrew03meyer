@@ -2,6 +2,8 @@
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer)](https://github.com/andrew03meyer/github-readme-stats)
+
 
 ## Oppurtunities
  - **I'm currently looking for a year placement (starting Summer 2024 - September 2025). If you have any oppurtunities, please let me know!**
