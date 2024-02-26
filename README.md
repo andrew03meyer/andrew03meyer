@@ -1,5 +1,5 @@
 # Andrew Meyer
- <img height=500 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew03meyer" />
+ <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&show_icons=true&theme=radical) 
 
 
