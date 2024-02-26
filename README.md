@@ -3,6 +3,9 @@
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=synthwave)](https://github.com/andrew03meyer/github-readme-stats)
 
 
+## Oppurtunities
+ - **I'm currently looking for a year placement (starting Summer 2024 - September 2025). If you have any oppurtunities, please let me know!**
+
 ## Programming Experience
 | Language | Experience     | Description |
 | -------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
@@ -14,9 +17,6 @@
 | Haskell  | University (2 months)        | I have just started to learn Haskell for one of my university modules                                                      |
 | SQL      | University/A-Level (4 years) | I have done some SQL at A-Level and more at university. I have also had some work experience where the main laguage was SQL|
 | C#       | Personal (1 month)           | I took part in some extra curricular studying of C# in a course. It gave me an introduction to C#                          |
-
-## Oppurtunities
- - **I'm currently looking for a year placement (starting Summer 2024 - September 2025). If you have any oppurtunities, please let me know!**
 
 ## Potential Projects
 | Language     | Project      | Descrition                                                                                               |
