@@ -20,6 +20,15 @@
 | SQL      | University/A-Level (4 years) | I have done some SQL at A-Level and more at university. I have also had some work experience where the main laguage was SQL|
 | C#       | Personal (1 month)           | I took part in some extra curricular studying of C# in a course. It gave me an introduction to C#                          |
 
+# Other Experience
+| Item                   | Experiece                  | Description                                                                                                                                                      |
+| ---------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Debain - Linux         | Personal (2-3 months)      | As part of the project for the streaming service (as mentioned above) I am dealing with the Bebian OS installed on the RPi                                       |
+| Command Line - Windows | Work (5 months)            | From my work, I have been developing my skills with the command line in windows. There is still much to learn!                                                   |
+| Client Interaction     | Work - (1 year)            | Through Wanstor and the pub experience, I have developed the skill of having professional, but engaging conversations with clients                               |
+| Troubleshooting        | Work and Education         | Developed further by my work at Wanstor, I have built this up from my education and plan to keep building it up as I gain more experience                        |
+| Hospitality Software   | Work at Wanstor (5 months) | Including: Simphony - Oracle, EMC - Oracle, Gooddata, OHEICS - Oracle, ADMP - Manage Engine. Endpoint Centeral - Manage Engine, Exchange - Microsoft, ServiceNow |
+
 ## Potential Projects
 | Language     | Project      | Descrition                                                                                               |
 | ------------ | ------------ | -------------------------------------------------------------------------------------------------------- |
@@ -28,7 +37,8 @@
 | Python/Linux | Rasberry Pi  | I have a project to produce a rasberry pi streaming device for a church in London                        |
 
 ## Work Experience
-| Where                  | Description                                                                                                                                   |
-| ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Metaswitch (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Google hosted ones     |
-|Shepherd and Dog        | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with customers |
+| Where                  | Description                                                                                                                                                                                                         |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Metaswitch (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Google hosted ones                                                                           |
+| Shepherd and Dog       | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with customers                                                                       |
+| Wanstor                | For the year in idustry, as part of my course, I am working as a service desk analyst for Wanstor. I'm actively solving technological issues experienced by a multitude of clients and expanding my expertise daily |
