@@ -23,7 +23,7 @@
 # Other Experience
 | Item                   | Experiece                  | Description                                                                                                                                                      |
 | ---------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Debain - Linux         | Personal (2-3 months)      | As part of the project for the streaming service (as mentioned above) I am dealing with the Bebian OS installed on the RPi                                       |
+| Debain - Linux         | Personal (2-3 months)      | As part of the project for the streaming service (as mentioned above) I am dealing with the Debian OS installed on the RPi                                       |
 | Command Line - Windows | Work (5 months)            | From my work, I have been developing my skills with the command line in windows. There is still much to learn!                                                   |
 | Client Interaction     | Work - (1 year)            | Through Wanstor and the pub experience, I have developed the skill of having professional, but engaging conversations with clients                               |
 | Troubleshooting        | Work and Education         | Developed further by my work at Wanstor, I have built this up from my education and plan to keep building it up as I gain more experience                        |
