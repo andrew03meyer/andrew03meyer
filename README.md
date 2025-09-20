@@ -1,40 +1,53 @@
-# Andrew Meyer
-<p align="center" valign="center">
- <img height=200 src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
- <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer&theme=radical&layout=compact" alt="Top languages"/>
+<h1 align="center">Hi 👋, I'm Andrew Meyer</h1>
+<h3 align="center">Current student at the University of Kent | Proactive & Passionate Tech Enthusiast | SD Analyst at Wanstor</h3>
+
+<p align="center" vertical-align="center">
+    <img height=400 src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
+    <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=andrew03meyer&theme=radical&" alt="andrew03meyer" />
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer&theme=radical&layout=compact" alt="Top languages" />
 </p>
 
+<h1 align="center">Currently looking for Graduation Roles for 2026 - Please do get in contact if you have any oppurtunites!</h1>
+<br>
 
-## Oppurtunities
- - **I'm currently looking for a year placement (starting Summer 2024 - September 2025). If you have any oppurtunities, please let me know!**
+<h3 align="left">Socials:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/andrew-meyer-200103266" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrew-meyer-200103266" height="30" width="40" /></a>
+    <a href="https://andrewmeyer.co.uk"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4906/4906292.png" alt="andrewmeyer.co.uk" height="30" width="40" /></a>
+</p>
 
-## Programming Experience
-| Language | Experience     | Description |
-| -------- | ---------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
-| Python   | GCSE, A-Level  (4 years)     | I have used python for a number of projects at A-Level and GCSE, and a couple at university.                               |
-| Java     | University    (2 years)      | Java was introduced to me as the main language at university. I have been using it for most programming since              |
-| HTML/CSS | University (2 years)         | These were introduced to me at A-Level, but I only really started working with it at university. I have developed my                                                knowledge mainly in personal projects                                                                                                                                  |
-| React    | Personal (1 year)            | I started using react to build websites (E.g.: [Repos](https://github.com/andrew03meyer/Andrew-Meyer))                     |
-| Tailwind | Personal (1 month)           | For my most recent website project, I've started using Tailwind                                                            |
-| Haskell  | University (5 months)        | I have just started to learn Haskell for one of my university modules                                                      |
-| SQL      | University/A-Level (4 years) | I have done some SQL at A-Level and more at university. I have also had some work experience where the main laguage was SQL|
-| C#       | Personal (1 month)           | I took part in some extra curricular studying of C# in a course. It gave me an introduction to C#                          |
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" /> </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+    <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40" /> </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /> </a>
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /> </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /> </a>
+    <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40" /> </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" /> </a>
+</p>
+<br>
 
 # Other Experience
 | Item                   | Experiece                  | Description                                                                                                                                                      |
 | ---------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Debain - Linux         | Personal (2-3 months)      | As part of the project for the streaming service (as mentioned above) I am dealing with the Debian OS installed on the RPi                                       |
+| Debian - Linux         | Personal (2-3 months)      | As part of the project for the streaming service (as mentioned above) I am dealing with the Debian OS installed on the RPi                                       |
 | Command Line - Windows | Work (5 months)            | From my work, I have been developing my skills with the command line in windows. There is still much to learn!                                                   |
 | Client Interaction     | Work - (1 year)            | Through Wanstor and the pub experience, I have developed the skill of having professional, but engaging conversations with clients                               |
 | Troubleshooting        | Work and Education         | Developed further by my work at Wanstor, I have built this up from my education and plan to keep building it up as I gain more experience                        |
 | Hospitality Software   | Work at Wanstor (5 months) | Including: Simphony - Oracle, EMC - Oracle, Gooddata, OHEICS - Oracle, ADMP - Manage Engine. Endpoint Centeral - Manage Engine, Exchange - Microsoft, ServiceNow |
-
-## Potential Projects
-| Language     | Project      | Descrition                                                                                               |
-| ------------ | ------------ | -------------------------------------------------------------------------------------------------------- |
-| C++          | Learn        | I would like to learn C++, as it has many useful applications, especially at lower levels of programming |
-| C#           | Game design? | I'd like to relearn C# and produce a game of some sort, possibly in Unity                                |
-| Python/Linux | Rasberry Pi  | I have a project to produce a rasberry pi streaming device for a church in London                        |
 
 ## Work Experience
 | Where                  | Description                                                                                                                                                                                                         |
