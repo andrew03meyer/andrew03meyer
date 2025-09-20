@@ -39,16 +39,17 @@
 
 # Other Experience
 | Item                   | Experiece                  | Description                                                                                                                                                      |
-| ---------------------- | -------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Debian - Linux         | Personal (2-3 months)      | As part of the project for the streaming service (as mentioned above) I am dealing with the Debian OS installed on the RPi                                       |
-| Command Line - Windows | Work (5 months)            | From my work, I have been developing my skills with the command line in windows. There is still much to learn!                                                   |
-| Client Interaction     | Work - (1 year)            | Through Wanstor and the pub experience, I have developed the skill of having professional, but engaging conversations with clients                               |
-| Troubleshooting        | Work and Education         | Developed further by my work at Wanstor, I have built this up from my education and plan to keep building it up as I gain more experience                        |
+| ---------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Debian - Linux         | Personal (2-3 months)      | As part of the project for a RPi streaming service, I have experience with Debian |
+| Command Line - Windows | Work (5 months)            | From my work, I have been developing my skills with the command line in windows. There is still much to learn! |
+| Client Interaction     | Work - (1 year)            | Developed a skill of effectively communicating with clients about requests and issues |
+| Public Speaking        | Multiple Instances         | Spoken publically numerous times, including a speech to over two-hundred people and an interview about Bell Ringing by ITV |
+| Troubleshooting        | Work and Education         | Developed further by my work at Wanstor, I have built this up from my education and plan to keep building it up as I gain more experience |
 | Hospitality Software   | Work at Wanstor (5 months) | Including: Simphony - Oracle, EMC - Oracle, Gooddata, OHEICS - Oracle, ADMP - Manage Engine. Endpoint Centeral - Manage Engine, Exchange - Microsoft, ServiceNow |
 
 ## Work Experience
-| Where                  | Description                                                                                                                                                                                                         |
-| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Metaswitch (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Google hosted ones                                                                           |
-| Shepherd and Dog       | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with customers                                                                       |
-| Wanstor                | For the year in idustry, as part of my course, I am working as a service desk analyst for Wanstor. I'm actively solving technological issues experienced by a multitude of clients and expanding my expertise daily |
+| Where                  | Description |
+| ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Metaswitch (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Google hosted ones |
+| Shepherd and Dog       | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with customers |
+| Wanstor                | As a service desk analyst at Wanstor, my year in industry was focused on solving a wide range of technological issues for various clients, allowing me to expand my expertise daily |
