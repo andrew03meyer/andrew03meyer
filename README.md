@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Meyer</h1>
+<h1 align="center">Hi 👋, I'm Andrew</Meyer>
 <h2 align="center">Currently looking for Graduation Roles for 2026 - Please do get in contact if you have any oppurtunites!</h2>
 
 <p align="center" vertical-align="center">
