@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrew Meyer</h1>
-<h3 align="center">Current student at the University of Kent | Proactive & Passionate Tech Enthusiast | SD Analyst at Wanstor</h3>
+<h2 align="center">Currently looking for Graduation Roles for 2026 - Please do get in contact if you have any oppurtunites!</h2>
 
 <p align="center" vertical-align="center">
     <img height=400 src="https://github-readme-stats.vercel.app/api?username=andrew03meyer&theme=radical" />
     <img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=andrew03meyer&theme=radical&" alt="andrew03meyer" />
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrew03meyer&theme=radical&layout=compact" alt="Top languages" />
 </p>
-
-<h1 align="center">Currently looking for Graduation Roles for 2026 - Please do get in contact if you have any oppurtunites!</h1>
-<br>
 
 <h3 align="left">Socials:</h3>
 <p align="left">
