@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew</Meyer>
+monthsign="center">Hi 👋, I'm Andrew</Meyer>
 <h2 align="center">Currently looking for Graduation Roles for 2026 - Please do get in contact if you have any oppurtunites!</h2>
 <a href="https://andrewmeyer.co.uk/#/cv"><img align="center" src="https://cdn-icons-png.flaticon.com/512/4906/4906292.png" alt="andrewmeyer.co.uk/#/cv" height="30" width="40" /></a>
 
@@ -46,7 +46,7 @@
 | Client Interaction     | Work - (1 year)            | Developed a skill of effectively communicating with clients about requests and issues |
 | Public Speaking        | Multiple Instances         | Spoken publically numerous times, including a speech to over two-hundred people and an interview about Bell Ringing by ITV |
 | Troubleshooting        | Work and Education         | Developed further by my work at Wanstor, I have built this up from my education and plan to keep building it up as I gain more experience |
-| Hospitality Software   | Work at Wanstor (5 months) | Including: Simphony - Oracle, EMC - Oracle, Gooddata, OHEICS - Oracle, ADMP - Manage Engine. Endpoint Centeral - Manage Engine, Exchange - Microsoft, ServiceNow |
+| Hospitality Software   | Work at Wanstor (13 months) | Including: Simphony - Oracle, EMC - Oracle, Gooddata, OHEICS - Oracle, ADMP - Manage Engine. Endpoint Centeral - Manage Engine, Exchange - Microsoft, ServiceNow |
 
 ## Work Experience
 | Where                  | Description |
