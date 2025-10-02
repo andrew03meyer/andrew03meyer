@@ -51,6 +51,7 @@
 ## Work Experience
 | Where                  | Description |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Wanstor (Part-time)    | I have been retained by Wanstor as a part-time employee, over my final year in university. Working for the Hospitality team |
+| Wanstor                | As a service desk analyst at Wanstor, my year in industry was focused on solving a wide range of technological issues for various clients, allowing me to expand my expertise daily |
 | Metaswitch (Microsoft) | In 2018, I worked at Metaswitch. I was part of a team testing the viability of transferring data from local servers to Google hosted ones |
 | Shepherd and Dog       | Over the summer of 2023, I spent 3 months as a waiter/bar staff. It taught me a lot about working in a team, and communicating with customers |
-| Wanstor                | As a service desk analyst at Wanstor, my year in industry was focused on solving a wide range of technological issues for various clients, allowing me to expand my expertise daily |
