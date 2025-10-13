@@ -38,6 +38,62 @@
 </p>
 <br>
 
+
+# University Details
+* Location: University of Kent
+* Course: Computer Science with a Year in Industry
+<div>
+  <table>
+    <tr>
+      <th>Year 1 Modules</th>
+      <th>Year 2 Modules</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Computers and the Cloud (78%)</li>
+          <li>Databases and the Web (88%)</li>
+          <li>Foundations of Computing I (71%)</li>
+          <li>Foundations of Computing II (84%)</li>
+          <li>Introduction to Object-Oriented Programming (89%)</li>
+          <li>Further Object Oriented Programming (91%)</li>
+          <li>Human Computer Interaction (85%)</li>
+          <li>Problem Solving with Algorithms (94%)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Algorithms, Correctness and Efficiency (98%)</li>
+          <li>Computer Systems (94%)</li>
+          <li>Database Systems (88%)</li>
+          <li>Functional Programming (91%)</li>
+          <li>Introduction to Artificial Intelligence (92%)</li>
+          <li>Introduction to Cyber Security (84%)</li>
+          <li>Software Development (86%)</li>
+          <li>Web Development (99%)</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+
+  <table>
+    <tr>
+      <th>Year 3 Modules</th>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>Machine Learning Algorithms</li>
+          <li>Internet of Things</li>
+          <li>Signal, Image and Data Analysis</li>
+          <li>Data Mining and Knowledge Discovery</li>
+        </ul>
+      </td>
+    </tr>
+  </table
+</div>
+
+
 # Other Experience
 | Item                   | Experiece                  | Description                                                                                                                                                      |
 | ---------------------- | -------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
